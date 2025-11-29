@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Faidah. I am a Senior Data Analyst working with Google full time and a consultant at IBM.
+Click on the link below to view my Resume and Portfolio
+[Portfolio](github.com/rufai-stat)
 <!--
 **rufaifa-stat/rufaifa-stat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
